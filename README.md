@@ -10,7 +10,7 @@ Feature interactions are essential for achieving high accuracy in recommender sy
 
 <p align="center">
   <img src="https://github.com/suyixin12123/L0-SIGN/blob/main/img/SIGN_frame.png", alt="Model Structure" width="800">
-  <p align="center"><em>Figure2: An Overview of the GMCF Model.</em></p>
+  <p align="center"><em>Figure2: An Overview of the L0-SIGN Model.</em></p>
 </p>
 
 
