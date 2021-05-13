@@ -50,22 +50,3 @@ Please credit our work by citing the following paper:
   year={2021}
 }
 ```
-
-
-### Requirement 
-
-Python version >= 3.7
-
-Install appropriate packages listed in requirements.txt:
-```
-pip install -r requirement.txt
-```
-
-### Run our code:
-```
-cd code
-python SIGN_main.py --dataset=frappe --predict_edge=1 --lr=0.05
-```
-
-For more argument options, please refer to ```SIGN_main.py```
-
