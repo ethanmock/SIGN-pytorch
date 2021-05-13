@@ -9,7 +9,7 @@ Su, Y., Zhang, R., Erfani, S., & Xu, Z. (2021). *Detecting Beneficial Feature In
 Feature interactions are essential for achieving high accuracy in recommender systems. Many studies take into account the interaction between every pair of features. However, this is suboptimal because some feature interactions may not be that relevant to the recommendation result, and taking them into account may introduce noise and decrease recommendation accuracy. To make the best out of feature interactions, we propose a graph neural network approach to effectively model them, together with a novel technique to automatically detect those feature interactions that are beneficial in terms of recommendation accuracy. The automatic feature interaction detection is achieved via edge prediction with an L0 activation regularization. Our proposed model is proved to be effective through the information bottleneck principle and statistical interaction theory.
 
 <p align="center">
-  <img src="https://github.com/suyixin12123/GMCF/blob/main/img/GMCF_structure.png", alt="Model Structure" width="800">
+  <img src="https://github.com/suyixin12123/L0-SIGN/blob/main/img/SIGN_frame.png", alt="Model Structure" width="800">
   <p align="center"><em>Figure2: An Overview of the GMCF Model.</em></p>
 </p>
 
