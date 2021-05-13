@@ -21,9 +21,9 @@ This repository contains the following contents:
 /
 ├── code/                   --> (The folder containing the source code)
 |   ├── dataloader.py       --> (The code to proceed the data into code-usable format)
-|   ├── main.py             --> (The main code file. The code is run through this file)
-|   ├── model.py            --> (Contains the function of our GMCF model.)
-|   ├── train.py            --> (Contains the code to train and evaluate our GMCF model.)
+|   ├── SIGN_main.py             --> (The main code file. The code is run through this file)
+|   ├── SIGN_model.py            --> (Contains the function of our GMCF model.)
+|   ├── SIGN_train.py            --> (Contains the code to train and evaluate our GMCF model.)
 ├── data/                   --> (The folder containing three used datasets)   
 |   ├── frappe/             --> (The frappe dataset to evaluate recommendation.)
 |   ├── ml-tag/             --> (The MovieLens Tag dataset to evaluate recommendation.)
